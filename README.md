@@ -1,5 +1,7 @@
 # Fake News Detection System
 
+Deployment link - https://colab.research.google.com/drive/1cp6HnP2YLG6ge6xHoMXEAOvLWdQh1Aty?usp=sharing
+
 ## Project Description
 
 Fake News Detection System is a Machine Learning project developed using Python.  
